@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+//DAVID QUITIAN ROMERO Y  DANIEL ESTEBAN MONDRAGON JUEZ
 // Definir la estructura de un punto en 2D
 struct Point
 {
